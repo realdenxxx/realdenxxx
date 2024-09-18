@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realdenxxx
 - 👀 I’m interested in Phyton
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning Python
+- 💞️ I’m looking for colab in learning Python
 - 📫 How to reach me. My E-mail relden82@gmail.com
 
 <!---
